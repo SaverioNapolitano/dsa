@@ -1,5 +1,5 @@
 # fundamentals-of-computer-science-II
-Some exercises in C for the Fundamentals of Computer Science II and Lab.
+Some exercises in C for the Fundamentals of Computer Science II and Lab. exam
 
 ## Table of contents
 * [book](#Book)
