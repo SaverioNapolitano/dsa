@@ -6,6 +6,7 @@ Some exercises in C for the Fundamentals of Computer Science II and Lab. exam
 * [class](#class)
 * [exams](#exams)
 * [labExercises](#LabExercises)
+* [primitive types](#PrimitiveTypes)
 
 ## Book
 
@@ -30,3 +31,7 @@ Of course, within the exam folder each exercise has its own sub-folder.
 Here you can find some solutions to the exercises we made during the lab lessons to be ready for the exam. 
 
 Again, each topic has its folder (folders stick to lessons' timetable so if we did two lessons about the same topic there will be two folders). 
+
+## PrimitiveTypes 
+
+For implementation and documentation about primitive types used you can refer to [this repo]()
