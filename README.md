@@ -34,4 +34,4 @@ Again, each topic has its folder (folders stick to lessons' timetable so if we d
 
 ## PrimitiveTypes 
 
-For implementation and documentation about primitive types used you can refer to [this repo]()
+For implementation and documentation about primitive types used you can refer to [this repo](https://github.com/prittt/fondamenti-ii)
