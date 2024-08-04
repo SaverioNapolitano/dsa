@@ -1,5 +1,5 @@
-# fundamentals-of-computer-science-II
-Some exercises in C for the Fundamentals of Computer Science II exam
+# Data structures & algorithms
+Some exercises in C for the Data Structures & Algorithms (formerly Fundamentals of Computer Science II) exam
 
 ## Table of contents
 * [book](#Book)
